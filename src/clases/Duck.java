@@ -1,7 +1,7 @@
 package clases;
 
 
-public abstract class Duck {
+public abstract class Duck{
 	
 	 protected FlyBehaviour flyBehaviour;
 	 protected QuackBehaviour quackBehaviour;
